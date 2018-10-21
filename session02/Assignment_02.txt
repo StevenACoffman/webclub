@@ -1,0 +1,25 @@
+	Web Club Session 2
+
+Add a title
+
+Change the body color and background-color to make it 
+nicer looking and easier to read.
+
+Add some line-breaks,<br>,and remove some other line 
+breaks to change the spacing of things on the page.
+
+Change the three headings <h1>, <h2>, <h3> to something 
+that makes sense to you.
+
+Add a header above the list(<ol>){animals,foods,people,etc.}
+
+Add at least three list items but try to add more.
+
+Add a list type, <ol type=X>   X can be 1,a,A,i,or I.
+
+Look at the pictures in the /images sub-folder of the 
+WebClub folder and use the name of one to replace the 
+XXXX.jpg in the img tag.
+
+
+

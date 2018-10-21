@@ -1,0 +1,24 @@
+	Web Club Session 3
+
+In the "styles" area:
+
+    Try different background images for the body.
+     (these files are in the "backgrounds" folder)
+
+    Try changing the border width, style and color
+      for the "img"
+
+    Try changing the font size,family,and weight for 
+      the paragraph. (<p>)  see the list handout.
+
+Add some words to the <ul> list at the bottom
+    and try changing the type from none to
+    "square" or "circle".
+
+Try putting an image in the list.
+
+Either:
+ 1)Replace the story of the bullied fat bird with 
+   a story of your own
+or
+ 2)add your own ending to the fat bird story.

@@ -1,0 +1,17 @@
+Assignment 1
+
+Open folder Web Club
+
+Open WebClub_01.html in TextEdit and also in a browser
+
+Add words to the body, at least a couple of lines. 
+
+Play with the background colors.
+
+Add a title.
+
+Make the words in the body a paragraph. ( <p> tag )
+
+Add a 'header' above the paragraph. 
+
+Give the paragraph a background color.
