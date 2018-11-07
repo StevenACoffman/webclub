@@ -1,0 +1,60 @@
+<html>
+
+<head>
+
+<title>
+
+</title>
+
+<style>
+   body {background-color: rgb(255, 150, 200);}
+   img  {border: 22px groove rgb(200, 100, 000);}
+   div  {
+	background-color: rgb(180, 180, 255);
+	width: 240px;
+	}
+   div:hover  {background-color: rgb(255, 180, 180);}
+   li:hover  {background-color: rgb(255, 225, 205);}
+</style>
+
+</head>
+
+<body>
+<h1>    </h1>
+
+<img id="BigBug" name="BigBug" src="StinkBug.jpg">
+<br><br>
+
+<div id="Div1" name="Div1" onMouseOver=this.style.backgroundColor='rgb(236,237,238)' onMouseOut=this.style.backgroundColor='rgb(180,180,255)'>
+Light Up
+</div>
+
+<br><br>
+
+<div id="DivB" name="DivB" onMouseOver=getElementById('Div2').style.backgroundColor='rgb(255,255,80)' onMouseOut=getElementById('Div2').style.backgroundColor='rgb(180,180,255)'>
+Turn Yellow
+</div>
+
+<br><br>
+
+<div id="Div2" name="Div2" onMouseOver=getElementById('BigBug').style.visibility='hidden'>
+Go away Bug
+</div>
+
+ <br><br>
+
+<div id="Div4" name="Div4" onMouseOver=getElementById('BigBug').style.visibility='visible'>
+Come Back Bug
+</div>
+
+<ol>
+   <li>Mountains</li>
+   <li>lakes</li>
+   <li>Trees</li>
+   <li>Trails</li>
+   <li>Rivers</li>
+</ol>
+
+</body>
+
+</html>
